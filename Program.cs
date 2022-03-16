@@ -13,7 +13,7 @@ namespace APProject
             Console.WriteLine("What is the first number you would like to sum?");
             string FirstString = Console.ReadLine();
             int FirstNum = int.Parse(FirstString);
-            
+
             List<int> values = new List<int>(); 
 
             
@@ -21,6 +21,10 @@ namespace APProject
 
         public static int SumAll(List<int> values)
         {
+            if (values = 0) // see if list is null or 0 then throw exception 
+            {
+
+            }
             return 2; 
         }
 
