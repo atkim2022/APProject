@@ -1,0 +1,15 @@
+/Users/Austin/Documents/GitHub/APProject/bin/Debug/net5.0/APProject.deps.json
+/Users/Austin/Documents/GitHub/APProject/bin/Debug/net5.0/APProject.runtimeconfig.json
+/Users/Austin/Documents/GitHub/APProject/bin/Debug/net5.0/APProject.runtimeconfig.dev.json
+/Users/Austin/Documents/GitHub/APProject/bin/Debug/net5.0/APProject.dll
+/Users/Austin/Documents/GitHub/APProject/bin/Debug/net5.0/ref/APProject.dll
+/Users/Austin/Documents/GitHub/APProject/bin/Debug/net5.0/APProject.pdb
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.csproj.AssemblyReference.cache
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.AssemblyInfoInputs.cache
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.AssemblyInfo.cs
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.csproj.CoreCompileInputs.cache
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.dll
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/ref/APProject.dll
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.pdb
+/Users/Austin/Documents/GitHub/APProject/obj/Debug/net5.0/APProject.genruntimeconfig.cache
