@@ -17,10 +17,10 @@ namespace APProject
                 Console.WriteLine("What number you would like to add to sum?");
                 values.Add(int.Parse(Console.ReadLine()));
                 Console.WriteLine("Would you like to sum another number?");    
-                Console.WriteLine("Type 'Y' for yes, 'N' for no.");
+                Console.WriteLine("Type 'y' for yes, 'n' for no.");
                 String response;
                 response = Console.ReadLine();
-                if (response == "Y")
+                if (response == "y")
                 {
                     Y = true;
                 }
